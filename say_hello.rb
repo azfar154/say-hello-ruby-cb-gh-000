@@ -2,4 +2,3 @@
 def say_hello(hello = "Ruby Programmer")
     return "Hello "+ hello + "!"
 end
-puts say_hello()
