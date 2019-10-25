@@ -2,4 +2,4 @@
 def say_hello(hello = "Ruby Programmer")
     return "Hello "+ hello + "!"
 end
-say_hello()
+puts say_hello()
