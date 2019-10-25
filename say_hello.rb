@@ -2,3 +2,4 @@
 def say_hello(hello)
     return "Hello #{hello}!"
 end
+say_hello("adam")
